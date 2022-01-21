@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="Dashboard 1-SpaceMissions" alt="dashboard" />
+  <img src="Dashboard 1-SpaceMissions.png" alt="dashboard" />
   &#xa0;
 
 </div>
